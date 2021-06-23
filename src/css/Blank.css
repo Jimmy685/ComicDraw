@@ -1,0 +1,13 @@
+#canvas-0 {
+    position: absolute;
+    top: 5px;
+    width: 505px;
+    background: white;
+}
+
+#container {
+    position: absolute;
+    width: calc(100% - 65px);
+    height: 100%;
+    background: #E8E8EC;
+}

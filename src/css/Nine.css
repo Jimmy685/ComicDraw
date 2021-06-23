@@ -1,0 +1,79 @@
+#nine {
+    position: absolute;
+    top: 5px;
+    width: 525px;
+    height: 732px;
+    background: white;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+canvas {
+    background: white;
+}
+
+.nineCanvas {
+    width: 170px;
+    height: 240px;
+    border: 3px solid black;
+}
+
+#container {
+    position: absolute;
+    width: calc(100% - 65px);
+    height: 100%;
+    background: #E8E8EC;
+}
+
+#canvas-7 {
+    position: absolute;
+    left: 4px;
+    top: 0;
+}
+
+#canvas-8 {
+    position: absolute;
+    left: 179px;
+    top: 0;
+}
+
+#canvas-9 {
+    position: absolute;
+    left: 354px;
+    top: 0;
+}
+
+#canvas-10 {
+    position: absolute;
+    left: 4px;
+    top: 245px;
+}
+
+#canvas-11 {
+    position: absolute;
+    left: 179px;
+    top: 245px;
+}
+
+#canvas-12 {
+    position: absolute;
+    left: 354px;
+    top: 245px;
+}
+
+#canvas-13 {
+    position: absolute;
+    left: 4px;
+    top: 490px;
+}
+
+#canvas-14 {
+    position: absolute;
+    left: 179px;
+    top: 490px;
+}
+
+#canvas-15 {
+    position: absolute;
+    left: 354px;
+    top: 490px;
+}

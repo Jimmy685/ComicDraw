@@ -1,0 +1,48 @@
+#four {
+    position: absolute;
+    left: calc(50vw - 320px);
+    top: 5px;
+    width: 525px;
+    height: 727px;
+    background: white;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.fourCanvas-2 {
+    width: 170px;
+    height: 240px;
+    border: 3px solid black;
+    margin-left: 4px;
+}
+
+.fourCanvas-1 {
+    position: absolute;
+    width: 520px;
+    height: 480px;
+    border: 3px solid black;
+    margin-left: 4px;
+}
+
+#canvas-17 {
+    position: absolute;
+    top: 485px;
+}
+
+#canvas-18 {
+    position: absolute;
+    top: 485px;
+    left: 175px;
+}
+
+#canvas-19 {
+    position: absolute;
+    top: 485px;
+    left: 350px;
+}
+
+#container {
+    position: absolute;
+    width: calc(100% - 65px);
+    height: 100%;
+    background: #E8E8EC;
+}

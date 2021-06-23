@@ -1,0 +1,59 @@
+#six {
+    position: absolute;
+    /*left:calc(50vw - 254px);*/
+    top: 5px;
+    width: 510px;
+    height: 730px;
+    background: white;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.sixCanvas {
+    width: 250px;
+    height: 240px;
+    background: white;
+    border: 3px solid black;
+}
+
+#canvas-1 {
+    position: absolute;
+    left: 4px;
+    top: 3px;
+}
+
+#canvas-2 {
+    position: absolute;
+    left: 259px;
+    top: 3px;
+}
+
+#canvas-3 {
+    position: absolute;
+    left: 4px;
+    top: 246px;
+}
+
+#canvas-4 {
+    position: absolute;
+    left: 259px;
+    top: 246px;
+}
+
+#canvas-5 {
+    position: absolute;
+    left: 4px;
+    top: 489px;
+}
+
+#canvas-6 {
+    position: absolute;
+    left: 259px;
+    top: 489px;
+}
+
+#container {
+    position: absolute;
+    width: calc(100% - 65px);
+    height: 100%;
+    background: #E8E8EC;
+}

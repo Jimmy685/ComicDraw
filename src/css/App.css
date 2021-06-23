@@ -1,0 +1,19 @@
+img {
+    border: 3px solid lightgray;
+    width: 200px;
+    height: 267px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#holder {
+    position: absolute;
+    left: 20vw;
+    top: 18vh;
+}
+
+#text {
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+}
